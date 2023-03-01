@@ -2,7 +2,7 @@
 In Autonomous vehicle software, Line detection is one of the most necessary action. Let's find out how we can do that in the simply way
 
 # Enviroment
-- Python 3
+- Python 3.11
 - Window 10
 
 # Result
